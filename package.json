@@ -1,0 +1,21 @@
+{
+  "name": "@rkulik/prettier-config",
+  "version": "1.0.0",
+  "description": "René's Prettier configuration",
+  "keywords": [
+    "prettier",
+    "config",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkulik/prettier-config.git"
+  },
+  "license": "MIT",
+  "author": "René Kulik <rene@kulik.io> (https://www.kulik.io/)",
+  "main": "index.json",
+  "bugs": {
+    "url": "https://github.com/rkulik/prettier-config/issues"
+  },
+  "homepage": "https://github.com/rkulik/prettier-config#readme"
+}
